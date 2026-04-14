@@ -17,7 +17,6 @@ python app.py
 ```
 pyinstaller --onefile --windowed --name "danser!droid" app.py
 ```
-Примечание: создайте папку assets перед выполнением вышеуказанной команды. 
 
 ## Итоговый результат должен получиться таким:
 ```
